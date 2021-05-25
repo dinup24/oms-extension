@@ -1,0 +1,2 @@
+//SCREEN_EXTENSIONS_DEFINITION_FILE
+//The extensions definition file where you update the value of the appropriate property with the name of the newly added components, services, and lazy loaded module routes.
