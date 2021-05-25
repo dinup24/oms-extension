@@ -1,1 +1,1 @@
-jars required for isf app
+application-specific UI or UI backend JAR files
